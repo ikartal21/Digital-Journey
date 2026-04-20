@@ -1,3 +1,5 @@
+![Uploading Ekran görüntüsü 2026-04-20 234842.png…]()
+
 # Dijital Journal
 
 Dijital Journal, günlük notlarını kolayca oluşturup düzenleyebileceğin basit ve modern bir React uygulamasıdır.
