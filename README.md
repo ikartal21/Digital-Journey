@@ -1,4 +1,4 @@
-<img width="1852" height="972" alt="Ekran görüntüsü 2026-04-20 234842" src="https://github.com/user-attachments/assets/baa9dd76-9460-4f7a-b1ab-31e00240dbcc" />
+<img width="1890" height="903" alt="Ekran görüntüsü 2026-04-21 002105" src="https://github.com/user-attachments/assets/447bb48e-152e-4ac1-a544-79d0029d2a01" />
 
 
 # Dijital Journal
