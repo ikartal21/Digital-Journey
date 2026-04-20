@@ -1,4 +1,5 @@
-![Uploading Ekran görüntüsü 2026-04-20 234842.png…]()
+<img width="1852" height="972" alt="Ekran görüntüsü 2026-04-20 234842" src="https://github.com/user-attachments/assets/baa9dd76-9460-4f7a-b1ab-31e00240dbcc" />
+
 
 # Dijital Journal
 
